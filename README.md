@@ -43,5 +43,5 @@ Filters and displays only the last 6 months of revenue and volume.
 ---
 
 ## 🔗 Author  
-**Parampreet Singh**  
+**Parampreet Singh Ahluwalia**  
 [LinkedIn – Parampreet Singh](https://www.linkedin.com/in/muhammad-ahmad-9051a127b/)
